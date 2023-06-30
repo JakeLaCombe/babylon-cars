@@ -1,7 +1,20 @@
-html, body {
+html,
+body {
   margin: 0;
 }
 
 canvas {
   outline: none;
+}
+
+#game-start {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#button-start {
+  font-size: 2em;
+  border-radius: 10px;
 }
