@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@babylonjs/core": "^6.6.0",
+    "@babylonjs/gui": "^6.10.0",
     "@babylonjs/loaders": "^6.6.0",
     "@babylonjs/procedural-textures": "^6.8.0"
   }
